@@ -1,0 +1,25 @@
+body{
+	background: #eeeeee;
+}
+
+.header{
+	height: 200px;
+	background: #de0000;
+	width: 100%;
+	padding: 10px 0px 10px 50px;
+	color: #ffffff;
+}
+
+li.nav-item {
+    padding-left: 25px;
+    margin-left: 50px;
+    padding-right: 30px;
+    background: #ff5a5a;
+    min-height: 42px;
+    padding-top: 10px;
+}
+footer {
+    background: #ccc;
+    padding: 15px;
+    margin: 0px;
+}
